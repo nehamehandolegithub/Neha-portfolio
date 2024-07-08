@@ -6,7 +6,7 @@ import About from '../about/About'
 import Projects from '../projects/Projects';
 import Experience from '../experience/Experience';
 import Contact from '../contact/Contact';
-import Nehacv from '../../assets/Neha-rs Resume.pdf'
+import Nehacv from '../../assets/Nehar-resume.pdf'
 
 
 const Home = () => {
