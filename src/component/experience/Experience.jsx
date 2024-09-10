@@ -1,9 +1,9 @@
 import React from 'react'
 import { FaHtml5, FaCss3Alt, FaBootstrap, FaReact, FaShopify, FaGithub } from "react-icons/fa";
 import { SiTailwindcss } from "react-icons/si";
-import { IoLogoJavascript } from "react-icons/io";
+import { IoLogoJavascript , IoLogoWordpress} from "react-icons/io";
 import { RiNextjsLine } from "react-icons/ri";
-import { FaGitAlt } from "react-icons/fa6";
+import { FaGitAlt, FaPhp } from "react-icons/fa6";
 
 const Experience = () => {
   return (
@@ -39,6 +39,23 @@ const Experience = () => {
                 </span>
                 <span className='lg:text-[17px] sm:text[10px]'>javascript</span>
               </button>
+
+              <button
+                className='hover:scale-110 duration-200 lg:w-[130px] flex gap-2 font-semibold rounded-md px-3 py-1 bg-[#ddedea] text-black hover:bg-white hover:text-black'>
+                <span>
+                  <IoLogoWordpress className='text-2xl text-[#21759b]' />
+                </span>
+                <span>Wordpress</span>
+              </button>
+
+              <button
+                className='hover:scale-110 duration-200 lg:w-[130px] flex gap-2 font-semibold rounded-md px-3 py-1 bg-[#ddedea] text-black hover:bg-white hover:text-black'>
+                <span>
+                  <FaPhp className='text-2xl text-[#484C89]' />
+                </span>
+                <span>PHP</span>
+              </button>
+              
               <button
                 className='hover:scale-110 duration-200 lg:w-[130px] flex gap-2 font-semibold rounded-md px-3 py-1 bg-[#ddedea] text-black hover:bg-white hover:text-black'>
                 <span>
@@ -60,26 +77,13 @@ const Experience = () => {
                 </span>
                 <span>Tailwind css</span>
               </button>
-              <button
-                className='hover:scale-110 duration-200 lg:w-[120px] flex gap-2 font-semibold rounded-md px-3 py-1 bg-[#ddedea] text-black hover:bg-white hover:text-black'>
-                <span>
-                  <RiNextjsLine className='text-2xl text-[black]' />
-                </span>
-                <span>Next.js</span>
-              </button>
+              
               <button
                 className='hover:scale-110 duration-200 lg:w-[120px] flex gap-2 font-semibold rounded-md px-3 py-1 bg-[#ddedea] text-black hover:bg-white hover:text-black'>
                 <span>
                   <FaShopify className='text-2xl text-green-700' />
                 </span>
                 <span>Shopify</span>
-              </button>
-              <button
-                className='hover:scale-110 duration-200 lg:w-[110px] flex gap-2 font-semibold rounded-md px-3 py-1 bg-[#ddedea] text-black hover:bg-white hover:text-black'>
-                <span>
-                  <FaGitAlt className='text-2xl text-[orange]' />
-                </span>
-                <span>Git</span>
               </button>
               <button
                 className='hover:scale-110 duration-200 lg:w-[110px] flex gap-2 font-semibold rounded-md px-3 py-1 bg-[#ddedea] text-black hover:bg-white hover:text-black'>

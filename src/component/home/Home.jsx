@@ -29,11 +29,11 @@ const Home = () => {
               A{"  "}
               <TypeAnimation
                 sequence={[
+                  "Wordpress Developer",
+                  1000,
                   'Front End Developer',
                   1000,
                   "React.Js Developer",
-                  1000,
-                  "Shopify Developer",
                   1000
                 ]}
                 wrapper="span"
@@ -43,7 +43,7 @@ const Home = () => {
             </h1>
           </div>
           <div className='mt-4'>
-            <span className='text-[18px] my-4'>Proficient in HTML, CSS, Tailwind CSS, JavaScript, React.js, and exploring Next.js. Specialize in crafting user-centric websites. Excited for collaborative challenges with professionals.</span>
+            <span className='text-[18px] my-4'>Proficient in WordPress development, creating custom themes and plugins, and optimizing website performance. Skilled in frontend technologies like HTML, CSS, JavaScript, and PHP, with experience in Tailwind CSS and React.js. Passionate about crafting user-friendly, performance-driven, and responsive websites, with a focus on seamless UI/UX design and delivering high-quality frontend solutions.</span>
           </div>
           <div className='mt-3'>
             <button className='bg-[#3fe2c4] flex items-center rounded-lg px-3 py-2 lg:hover:scale-105 duration-200'>

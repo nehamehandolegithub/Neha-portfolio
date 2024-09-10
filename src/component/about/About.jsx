@@ -25,10 +25,10 @@ const About = () => {
               <h1 className='text-[16px] font-semibold'>GET TO KNOW</h1>
               <h1 className='text-[29px] font-semibold'>ABOUT ME</h1>
               <div className='mt-[20px] lg:text-justify'>
-              Every day, I eagerly embrace the path of continuous learning, channeling my passion for Front-end Development to create captivating digital experiences. My fascination with crafting frontend marvels guides me. I've transformed myself into a <span className='font-bold text-[#ff0044]'>self-taught coder</span> , conquering HTML, CSS, Tailwind CSS, JavaScript, React.js, and Next.js against all odds.
+              Every day, I eagerly embrace the path of continuous learning, channeling my passion for WordPress and Front-end Development to create captivating digital experiences. My fascination with crafting custom WordPress solutions and frontend marvels guides me. I've transformed myself into a <span className='font-bold text-[#ff0044]'>self-taught coder</span> , conquering WordPress, HTML, CSS, Tailwind CSS, JavaScript, React.js, and Next.js against all odds.
               </div>
               <div className='text-[17px] mt-[20px] lg:text-justify'>
-                My motto is quality, and I'm devoted to user experience. I champion impactful code, excited to collaborate with fellow visionaries. Let's craft web stories that leave a mark.
+              My motto is quality, and I'm devoted to user experience. I champion impactful code, excited to collaborate with fellow visionaries. Let's craft web stories that leave a mark.
               </div>
               <div className='mt-3 text-[30px] font-semibold text-[#47e1e1] '>
                 Lets Connect!
