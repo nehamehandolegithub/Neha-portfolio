@@ -2,8 +2,7 @@ import React from 'react'
 import { FaHtml5, FaCss3Alt, FaBootstrap, FaReact, FaShopify, FaGithub } from "react-icons/fa";
 import { SiTailwindcss } from "react-icons/si";
 import { IoLogoJavascript , IoLogoWordpress} from "react-icons/io";
-import { RiNextjsLine } from "react-icons/ri";
-import { FaGitAlt, FaPhp } from "react-icons/fa6";
+import { FaPhp } from "react-icons/fa6";
 
 const Experience = () => {
   return (
